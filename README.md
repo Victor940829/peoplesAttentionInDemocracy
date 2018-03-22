@@ -4,7 +4,7 @@ People's Attention to Democracy
 
 ## To View the page
 
-[Pages Link](https://github.com/Victor0829/peoplesAttentionInDemocracy)
+[Pages Link](http://htmlpreview.github.io/?https://github.com/Victor0829/peoplesAttentionInDemocracy/blob/master/index.html)
 
 ## getStat Usage:
 
